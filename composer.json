@@ -1,5 +1,5 @@
 {
-    "name": "sikuda/test2",
+    "name": "sikuda/test",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -7,5 +7,7 @@
             "Sikuda\\Test2\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "ajaz/random-quotes-generator-php": "^1.0"
+    }
 }
