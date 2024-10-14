@@ -1,0 +1,11 @@
+{
+    "name": "sikuda/test2",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sikuda\\Test2\\": "src/"
+        }
+    },
+    "require": {}
+}
