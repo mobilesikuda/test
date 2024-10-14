@@ -9,5 +9,11 @@
     },
     "require": {
         "ajaz/random-quotes-generator-php": "^1.0"
+    },
+    "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/mobilesikuda/test.git"
     }
+]
 }
